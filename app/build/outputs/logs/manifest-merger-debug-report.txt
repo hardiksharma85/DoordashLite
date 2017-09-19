@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:8:5-23:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\aeca019681068e519e31eac3b3766be9a1748239\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\531237f6c8ff466bcf77263adafdde625236584a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\75e204d4365eafe5fb6c266649e83eb0f7322389\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\c85993989c94f0b3030bf119bafe08b2ad70171c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\5ad3be7b0aa81d509721bd2dbe30675d7a432d95\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\2759fc7041fed88c225cc5701ad508c30bb7646c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\079fdcc5142e7c4159ef4ff34f4632cfb35a1e87\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\913c8981626b24acfa8e1ca5595d6611b44dab9b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\f3ff4541636eaceb6a6ee7726a55bce8db93904e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\143746b48feeb97611a4131a29bb7334f01f95bd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\cee12c311f0aa1ef4556be81a132d62e99db6b4e\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:11:9-41
+	android:allowBackup
+		ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:12:9-48
+activity#com.example.hardik.doorslash.view.MainActivity
+ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:13:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:15:13-49
+	android:name
+		ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:14:13-74
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\aeca019681068e519e31eac3b3766be9a1748239\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\531237f6c8ff466bcf77263adafdde625236584a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\75e204d4365eafe5fb6c266649e83eb0f7322389\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\c85993989c94f0b3030bf119bafe08b2ad70171c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\0b29bb5fae924fc16cd4621c73d9f1f7e41a6223\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\5ad3be7b0aa81d509721bd2dbe30675d7a432d95\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\2759fc7041fed88c225cc5701ad508c30bb7646c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\079fdcc5142e7c4159ef4ff34f4632cfb35a1e87\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\913c8981626b24acfa8e1ca5595d6611b44dab9b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\f3ff4541636eaceb6a6ee7726a55bce8db93904e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\143746b48feeb97611a4131a29bb7334f01f95bd\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\cee12c311f0aa1ef4556be81a132d62e99db6b4e\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\aeca019681068e519e31eac3b3766be9a1748239\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aksha\Downloads\DoorSlash\DoorSlash\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\aeca019681068e519e31eac3b3766be9a1748239\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\531237f6c8ff466bcf77263adafdde625236584a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\75e204d4365eafe5fb6c266649e83eb0f7322389\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\c85993989c94f0b3030bf119bafe08b2ad70171c\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\0b29bb5fae924fc16cd4621c73d9f1f7e41a6223\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\5ad3be7b0aa81d509721bd2dbe30675d7a432d95\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\2759fc7041fed88c225cc5701ad508c30bb7646c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\079fdcc5142e7c4159ef4ff34f4632cfb35a1e87\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\913c8981626b24acfa8e1ca5595d6611b44dab9b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\f3ff4541636eaceb6a6ee7726a55bce8db93904e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\143746b48feeb97611a4131a29bb7334f01f95bd\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\cee12c311f0aa1ef4556be81a132d62e99db6b4e\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\aeca019681068e519e31eac3b3766be9a1748239\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\aksha\.android\build-cache\aeca019681068e519e31eac3b3766be9a1748239\output\AndroidManifest.xml:26:9-47

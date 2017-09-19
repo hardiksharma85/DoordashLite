@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\aksha\\Downloads\\DoorSlash\\DoorSlash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\fav_unselected_icon.png",
+        "source": "C:\\Users\\aksha\\Downloads\\DoorSlash\\DoorSlash\\app\\src\\main\\res\\drawable-xxhdpi\\fav_unselected_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\aksha\\Downloads\\DoorSlash\\DoorSlash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\nav_icon.png",
+        "source": "C:\\Users\\aksha\\Downloads\\DoorSlash\\DoorSlash\\app\\src\\main\\res\\drawable-xxhdpi\\nav_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\aksha\\Downloads\\DoorSlash\\DoorSlash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\fav_selected_icon.png",
+        "source": "C:\\Users\\aksha\\Downloads\\DoorSlash\\DoorSlash\\app\\src\\main\\res\\drawable-xxhdpi\\fav_selected_icon.png"
+    }
+]

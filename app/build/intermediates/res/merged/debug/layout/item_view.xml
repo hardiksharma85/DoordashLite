@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/ui_line_grey">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+        
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:id="@+id/rest_image"
+            android:padding="10dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rest_name"
+            android:text="MISSING String"
+            android:textSize="14sp"
+            android:layout_toRightOf="@+id/rest_image"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:paddingRight="120dp"
+            android:layout_marginBottom="5dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rest_type"
+            android:text="MISSING String"
+            android:textSize="12sp"
+            android:layout_toRightOf="@+id/rest_image"
+            android:layout_below="@+id/rest_name"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:paddingRight="120dp"
+            android:layout_marginBottom="5dp"/>
+
+        <ToggleButton
+            android:id="@+id/star"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/check"
+            android:textOn=""
+            android:textOff=""
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:layout_alignParentRight="true"
+            android:padding="20dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/distance"
+            android:layout_below="@+id/star"
+            android:text="22 mins"
+            android:textSize="12sp"
+            android:layout_alignParentRight="true"
+            android:paddingRight="20dp"/>
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DoorSlash</string>
+
+    <string name="no_network">Network is offline </string>
+    <string name="progress_text">Please wait...</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_settings">Settings</string>
+</resources>
